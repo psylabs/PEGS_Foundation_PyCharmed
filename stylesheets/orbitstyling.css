@@ -1,0 +1,18 @@
+.content{
+	background: url("orbit/coffee.jpg")
+}
+
+.content h1{
+    color: #222222;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-top: 100px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.content h3 {
+    color: #222222;
+    font-size: 22px;
+    text-align: center;
+}
