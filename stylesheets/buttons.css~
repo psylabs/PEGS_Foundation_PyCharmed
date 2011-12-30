@@ -49,9 +49,5 @@ border-bottom: 1px solid rgba(0,0,0,0.25);
     .yellow.awesome {
     background-color: #ffb515;
     }
-    .maroon.awesome {
-    background-color: #6B0000;
-    }
-
 
 

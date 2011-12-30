@@ -15,7 +15,7 @@
 
 .footer{
 border-top: 1px solid  darken(@bgcolor,50%);
-
+border-bottom: -2px solid black;
 /*would love to be able to add a white line below this*/
 
 }

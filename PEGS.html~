@@ -38,7 +38,7 @@
 					<strong class="right">
 					<input class="small-input-text" placeholder="user" type="text">			
 					<input class="small-input-text" placeholder="password" type="text">
-					<a class="small blue nice button "> Sign in </a>
+					<a class="small blue nice button rotation"> Sign in </a>
 					 </strong>
 				</div>
 			</div>
